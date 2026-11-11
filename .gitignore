@@ -1,3 +1,6 @@
 node_modules
 .next
 beatside-src/out
+node_modules
+.next
+out
