@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --page-bg: #F5F1E9;
+  --page-fg: #191919;
+  --surface: #FFFFFF;
+  --muted: #716B64;
+  --border: #D9D1C7;
+  --primary: #C92732;
+}
+
+.dark {
+  --page-bg: #171717;
+  --page-fg: #F5F1E9;
+  --surface: #242424;
+  --muted: #B8B1A7;
+  --border: #414141;
+  --primary: #E45B64;
+}

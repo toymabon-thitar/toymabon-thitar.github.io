@@ -1,0 +1,162 @@
+
+{
+  "id": "hooligan",
+  "title": "Hooligan",
+  "artist": "BTS",
+  "sections": [
+    {
+      "id": "chorus-1",
+      "label": "Chorus",
+      "lines": [
+        { "original": "Watch this, watch this beat goin’ hooligan" },
+        { "original": "We pop out, we actin’ a fool again" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "label": "Chorus",
+      "lines": [
+        { "original": "Why this bassline slappin’ so rude" },
+        { "original": "Drop it lower than chopped and screwed" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "label": "Verse 1",
+      "lines": [
+        { "original": "Man, I’m ’bout to blow a fuse" },
+        {
+          "original": "통제불능, 머리 춤",
+          "pronunciation": "ทง เจ บุล นึง, มอ รี ชม"
+        },
+        {
+          "original": "뛰어 미친놈인 듯",
+          "pronunciation": "ตวี ออ มี ชิน นม อิน ตึท"
+        },
+        {
+          "original": "Me everywhere, 얼쑤",
+          "pronunciation": "Me everywhere, ออล ซู"
+        },
+        { "original": "Somebody move" },
+        { "original": "Somebody move" },
+        {
+          "original": "다들 모여 하나 둘",
+          "pronunciation": "ทา ดึล โม ยอ ฮา นา ทุล"
+        },
+        { "original": "I can never ever choose" },
+        { "original": "Every one o’ you a muse" }
+      ]
+    },
+    {
+      "id": "pre-chorus",
+      "label": "Pre-Chorus",
+      "lines": [
+        { "original": "Crowd lookin’ like a campus" },
+        {
+          "original": "Beat drop 우린 dancin’",
+          "pronunciation": "Beat drop อู ริน dancin’"
+        }
+      ]
+    },
+    {
+      "id": "chorus-3",
+      "label": "Chorus",
+      "lines": [
+        { "original": "Watch this, watch this beat goin’ hooligan" },
+        { "original": "We pop out, we actin’ a fool again" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    },
+    {
+      "id": "chorus-4",
+      "label": "Chorus",
+      "lines": [
+        { "original": "Why this bassline slappin’ so rude" },
+        { "original": "Drop it lower than chopped and screwed" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "label": "Verse 2",
+      "lines": [
+        { "original": "I go cuckoo crazy loco save me" },
+        {
+          "original": "Like El Cucuy 굳이 말 안 해도 알잖아",
+          "pronunciation": "Like El Cucuy คู ดี มัล อัน แฮ โด อัล จา นา"
+        },
+        { "original": "Hooligan, like hooligan" },
+        {
+          "original": "때려 부숴 like hooligan",
+          "pronunciation": "แต รยอ พู ชวอ like hooligan"
+        },
+        {
+          "original": "시간 됐으니 좀 비켜 좀",
+          "pronunciation": "ชี กัน ทเวท ซือ นี ชม พี คยอ จม"
+        },
+        {
+          "original": "All clear 이상 무",
+          "pronunciation": "All clear อี ซัง มู"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "label": "Bridge",
+      "lines": [
+        { "original": "Take you out" },
+        { "original": "Take you out" },
+        { "original": "What’s the future?" },
+        { "original": "Where’s the now?" },
+        { "original": "This is international" },
+        { "original": "Make it unforgettable" }
+      ]
+    },
+    {
+      "id": "chorus-5",
+      "label": "Chorus",
+      "lines": [
+        { "original": "Watch this, watch this beat goin’ hooligan" },
+        { "original": "We pop out, we actin’ a fool again" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    },
+    {
+      "id": "verse-3",
+      "label": "Verse 3",
+      "lines": [
+        { "original": "We the mess, gonna get a bigger mop here" },
+        { "original": "This that K, gotta get a better pop here" },
+        { "original": "You gon’ hear this one playin’ round the clock, yeah" },
+        { "original": "Round the clock clock clock clock" }
+      ]
+    },
+    {
+      "id": "outro-1",
+      "label": "Outro",
+      "lines": [
+        { "original": "Why this bassline slappin’ so rude" },
+        { "original": "Drop it lower than chopped and screwed" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    },
+    {
+      "id": "outro-2",
+      "label": "Outro",
+      "lines": [
+        { "original": "Why this bassline slappin’ so rude" },
+        { "original": "Drop it lower than chopped and screwed" },
+        { "original": "Hooligan" },
+        { "original": "Watch this, watch this beat goin’ hooligan" }
+      ]
+    }
+  ]
+}
